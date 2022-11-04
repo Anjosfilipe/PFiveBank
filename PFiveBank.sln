@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PFiveBank", "PFiveBank\PFiveBank.csproj", "{B7B36981-469C-47D4-B0F1-88417A49A655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7B36981-469C-47D4-B0F1-88417A49A655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B36981-469C-47D4-B0F1-88417A49A655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B36981-469C-47D4-B0F1-88417A49A655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B36981-469C-47D4-B0F1-88417A49A655}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65DFC8F9-CA2A-4E27-B5EE-7A0CAC3B1420}
+	EndGlobalSection
+EndGlobal
